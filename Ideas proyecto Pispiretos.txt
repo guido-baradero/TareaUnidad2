@@ -1,7 +1,11 @@
 Decoracion:
 	Guirnaldas
+	Banderines
+	Props
 	Topper 3D
+	Figuras 3D
 	Cajitas golosineras
+	Bolsitas golosineras
 	Fiestas tematicas:
 			Baby Shower
 			Cumples infantiles
@@ -10,13 +14,17 @@ Decoracion:
 			Quinces
 
 Papeleria:
-	Agendas
-	Cuadernos
-	Origami
-	
+	Agendas personales
+	Agendas para maestros
+	Cuadernos personalizados
+
+Origami:
 
 Imprenta:
 	Fotocopias
 	Bajada PDF
 	Anillados
-	
+	Plastificados
+	Laminados
+	Curriculum Vitae
+	Tarjetas personales
